@@ -1,0 +1,33 @@
+{
+  "name": "t3n-enterprise-agent",
+  "version": "1.0.0",
+  "description": "Terminal 3 Enterprise Agent for managing T3N resources",
+  "type": "module",
+  "main": "agent.mjs",
+  "scripts": {
+    "start": "node agent.mjs",
+    "status": "node agent.mjs status",
+    "agents": "node agent.mjs agents",
+    "usage": "node agent.mjs usage",
+    "audit": "node agent.mjs audit",
+    "activity": "node agent.mjs activity",
+    "help": "node agent.mjs help"
+  },
+  "keywords": [
+    "terminal3",
+    "t3n",
+    "enterprise",
+    "agent",
+    "blockchain",
+    "web3",
+    "decentralized"
+  ],
+  "author": "Herman Agent",
+  "license": "MIT",
+  "dependencies": {
+    "@terminal3/t3n-sdk": "^5.17.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
