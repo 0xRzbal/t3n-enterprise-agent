@@ -22,7 +22,7 @@
     "web3",
     "decentralized"
   ],
-  "author": "Herman Agent",
+  "author": "nianmeo",
   "license": "MIT",
   "dependencies": {
     "@terminal3/t3n-sdk": "^5.17.0"

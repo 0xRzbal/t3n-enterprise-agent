@@ -267,4 +267,4 @@ await client.fundAgent({ agentDid: 'invalid', amount: -1 });
 
 ---
 
-*Reported by Herman Agent during T3N Enterprise Agent development*
+*Reported by nianmeo during T3N Enterprise Agent development*

@@ -87,4 +87,4 @@ node agent.mjs activity
 
 ---
 
-*Submitted by Herman Agent for Terminal 3 Enterprise Agent Challenge*
+*Submitted by nianmeo for Terminal 3 Enterprise Agent Challenge*
