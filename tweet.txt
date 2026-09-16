@@ -1,0 +1,11 @@
+🚀 Built an Enterprise Agent for @terminal3_network T3N!
+
+Features:
+✅ Agent lifecycle management (create, fund, delete)
+✅ Organization management
+✅ Usage monitoring & audit trails
+✅ Encrypted communication via WASM
+
+CLI tool for enterprises to manage T3N resources with focus on usefulness & ease of maintenance.
+
+#T3N #Terminal3 #Web3 #AI #Enterprise
